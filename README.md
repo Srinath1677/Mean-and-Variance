@@ -1,8 +1,9 @@
 #  Mean and variance of a discrete  distribution
-Ex no 1
-Date:
-Name:YG Srinath 
-Register.no:24900665
+# Ex no 1
+# Date:
+# Name:YG Srinath 
+# Register.no:24900665
+
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
